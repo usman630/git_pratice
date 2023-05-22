@@ -1,0 +1,13 @@
+personal github access token: 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
+
+
+to download the code from github
+-----------------------------------------
+git clone <repo-url>
+
+
+python commands
+------------------------------------------
+python3.10 -m venv env ---  to create virtual evn 
+source env/bin/activate ---- to activate virtual env
+pip install -r requirements.txt ---- to install modules
